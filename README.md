@@ -8,8 +8,8 @@
   </a>
 </div>
 
-<p align="center">Hi there 👋</p> 
-
+**<p align="center">Hi there 👋</p>** 
+**<font color=#FF0000 align="center">今天天氣真好。</font>**
 <!--
 **Shiang-Tian/Shiang-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
