@@ -16,7 +16,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
+- :telescope: I’m working as a Engineer and contributing to VIS.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I like to hang out with friends. When talking about the sports, I'm good at playing badminton.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red)](cch1231cch1231@gmail.com)
 
 <!--
 **Shiang-Tian/Shiang-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
