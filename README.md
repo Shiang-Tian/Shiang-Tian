@@ -13,6 +13,10 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 <!--
 **Shiang-Tian/Shiang-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
