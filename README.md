@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
-- :telescope: I’m working as a Engineer and contributing to VIS.
+- :telescope: Graduated from NYCU, now working as a Engineer and contributing to VIS.
 
 - :seedling: Exploring Technical Content Writing.
 
