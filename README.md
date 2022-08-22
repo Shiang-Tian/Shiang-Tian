@@ -21,7 +21,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I like to hang out with friends, and I like to try different types of food. When talking about the sports, I'm good at playing badminton.
+- :zap: In my free time, I like hanging out with friends, reading novels, and I like to try different types of food. When talking about the sports, I'm good at playing badminton. Music is my life !!!
 - :mailbox:How to reach me: ![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red)cch1231cch1231@gmail.com
 
 <!--
